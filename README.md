@@ -7,7 +7,6 @@
 ---
 
 ## 1. Glosario de Términos
-A continuación, se presentan 15 conceptos fundamentales discutidos durante la primera sesión:
 
 1. *Hardware:* Elementos físicos y tangibles de una computadora (monitor, CPU, teclado).
 2. *Software:* Programas y aplicaciones que dan instrucciones al hardware para funcionar.
@@ -36,5 +35,3 @@ La computación ha experimentado una transformación radical con la llegada de l
 Por otro lado, la *IA* ha potenciado la automatización y el análisis predictivo. Los sistemas ya no solo procesan datos de forma lineal, sino que aprenden de ellos, optimizando desde diagnósticos médicos hasta procesos industriales complejos. 
 
 Sin embargo, este avance trae consigo *riesgos significativos*. El principal es la privacidad: al residir la información en servidores externos, la seguridad de los datos depende de terceros. Además, el uso de la IA plantea dilemas éticos sobre la veracidad de la información y la posible pérdida de control humano sobre decisiones críticas. En conclusión, aunque estas tecnologías impulsan el progreso, exigen una infraestructura de ciberseguridad robusta y un marco ético sólido para mitigar sus vulnerabilidades.
-
----
