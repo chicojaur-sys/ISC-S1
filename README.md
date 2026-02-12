@@ -1,7 +1,7 @@
 # Tarea Semana 1 - Introducción a los Sistemas de Cómputo
-*Estudiante:* [ Aura Azucena chicoj chicoj]  
-*Carné:* [3590-26-13599]  
-*Curso:* Ingeniería en Sistemas de Información  
+**Estudiante:** [ Aura Azucena chicoj chicoj]  
+**Carné:** [3590-26-13599]  
+**Curso:** Ingeniería en Sistemas de Información  
 *Universidad Mariano Gálvez de Guatemala*
 
 ---
